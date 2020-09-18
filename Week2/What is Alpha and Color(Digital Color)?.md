@@ -56,7 +56,7 @@
 
 = 인쇄 기계는 CMYK 색상을 물리적 잉크로 다양한 수준으로 조합하여 이미지를 만든다. 이것은 감산 혼합이라고 알려져 있다. 모든 색이 함께 섞이면 순수한 블랙이 만들어진다.
 
-[![https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)](https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)
+![https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)](https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)
 
 ### __RGB(빨간색, 녹색, 파란색) 색상 모드
 
