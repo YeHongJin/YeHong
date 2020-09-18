@@ -44,7 +44,7 @@
 48비트 : 2의48승 - 약 281조 색- RGB채널이 16비트로 저장되는 형식
 
 
-### __CMYK(Cyan, Magenta, Yellow, Key/Black) 색상 모드
+### __CMYK(Cyan, Magenta, Yellow, Key/Black) 색상 모드__
 
 + 만약 프린터가 디지털 인쇄 방법을 사용한다면, 우리는 CMYK 색상을 사용하여 종이에 색을 인쇄할 것이다.
 
@@ -58,7 +58,7 @@
 
 ![https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)](https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)
 
-### __RGB(빨간색, 녹색, 파란색) 색상 모드
+### __RGB(빨간색, 녹색, 파란색) 색상 모드__
 
 + RGB는 CRT, LCD 모니터, 디지털 카메라, 스캐너와 같은 전자 디스플레이와 관련된 색상표다. 
 
