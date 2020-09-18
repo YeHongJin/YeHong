@@ -42,14 +42,16 @@
 ### __CMYK(Cyan, Magenta, Yellow, Key/Black) 색상 모드
 
 + 만약 프린터가 디지털 인쇄 방법을 사용한다면, 그들은 CMYK 색상을 사용하여 종이에 색을 인쇄할 것이다. 이것은 청록색, 자홍색, 노란색, 검정색을 다양한 양으로 활용하여 이미지를 인쇄할 때 필요한 모든 색상을 만드는 4색 모드 입니다. 그것은 감산 과정으로, 각각의 추가되는 독특한 색은 색을 만들기 위해 더 많은 빛을 제거하거나 흡수한다는 것을 의미한다. 처음 세 가지 색을 합치면 순수한 블랙이 아니라 매우 짙은 갈색이 된다. 즉 검은색은 인쇄된 그림에서 빛을 완전히 제거하기 위해 사용되는데, 그래서 눈은 그 색을 검은색으로 인식한다.인쇄 기계는 CMYK 색상을 물리적 잉크로 다양한 수준으로 조합하여 이미지를 만든다. 이것은 감산 혼합이라고 알려져 있다.  모든 색이 함께 섞이면 순수한 블랙이 만들어진다.
+
 [![https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)](https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-CMYK.jpg)
 
-###__RGB(빨간색, 녹색, 파란색) 색상 모드
+### __RGB(빨간색, 녹색, 파란색) 색상 모드
 
 + RGB는 CRT, LCD 모니터, 디지털 카메라, 스캐너와 같은 전자 디스플레이와 관련된 색상표다. 원색인 빨강, 초록, 파랑색을 다양한 조도로 조합해 다양한 색상을 연출하는 가법형 색채모드다. 세 가지 색상을 모두 조합하여 최대한 발휘하면 결과는 순백색이다. 세 가지 색상을 모두 합치면 값이 검정색이다. = 모든 색은 검은 어둠으로 시작하고 그 위에 빨강, 초록, 파랑 빛을 더하여 그것을 밝게 하고 완벽한 색소를 만들어낸다. 적색, 녹색, 청색 빛이 같은 강도로 함께 섞이면 순백색을 만든다.
 사진 편집 프로그램과 같은 소프트웨어는 가장 광범위한 색상을 제공하기 때문에 RGB 색상 모드를 사용한다.
 RGB가 색상의 기본이 되는 이유는 : 인간 망막을 구성하는 S,M,L 3종류의 ‘추상체’가 있는데, 이것을 기준으로 한다. 우리눈 생물학적으로 R,G,B에만 민감하게 만들어졌단 뜻이다.
 진화론 관점을 통해, RGB 시각은 피부색을 구별하기 위해 진화 했다고 한다.
+
 ![https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-RBG.jpg)](https://3oitv82iy0r71pp3lsehudts-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/colour-space-RBG.jpg)
  
 #### __감마 보정 (gamma correction)
@@ -79,6 +81,9 @@ RGB 컬러 공간은 CMYK 컬러 공간보다 넓으며, 이는 인쇄된 이미
 참고문헌
 
 http://asktimgrey.com/2017/11/27/what-is-an-alpha-channel/
+
 https://www.ashworthcreative.com/blog/2014/06/difference-cmyk-rgb-colors/
+
 https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/
+
 https://developer.mozilla.org/en-US/docs/Glossary/Alpha
