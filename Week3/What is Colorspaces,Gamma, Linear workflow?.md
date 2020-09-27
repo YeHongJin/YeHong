@@ -12,7 +12,7 @@
 
 + gamut= 색의 영역, __특정 기기가 생성하거나 기록할 수 있는 색상의 범위 즉 컬러스페이스 중 얼만큼의 색의 영역을 볼 수 있는가__ 이다.
 + 일반적으로 색도 다이어그램에 장치 원색의 밀폐된 영역으로 표시된다. 
-  + 예를 들어, 모니터의 기본 색상은 빨강, 녹색, 파랑이다. 따라서 모니터의 색 게이머트는 모니터 빨강, 녹색, 파랑의 색 좌표로 둘러싸인 삼각형 영역에 표시된다. 
+  + 예를 들어, 모니터의 기본 색상은 빨강, 녹색, 파랑이다. 따라서 모니터의 색 gamut는 모니터 빨강, 녹색, 파랑의 색 좌표로 둘러싸인 삼각형 영역에 표시된다. 
 
 ![(https://www.benq.com/content/dam/b2c/en/knowledge-center/what-is-color-gamut/color-gamut-5.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)](https://www.benq.com/content/dam/b2c/en/knowledge-center/what-is-color-gamut/color-gamut-5.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)
 
