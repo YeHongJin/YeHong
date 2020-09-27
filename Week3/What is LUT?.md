@@ -3,9 +3,9 @@
 + LUT(Look Up Table)이란 어떤 자료나 정보를 찾기 위한 목록표.
 + 실제 컴퓨터의 처리과정에서 연산의 횟수를 줄이고 속도를 높이기 위해 미리 연산한 결과 값들을 저장한 후 이를 이용하여 처리하기 위한 배열 혹은 메모리의 집합을 지칭.
 + 포토샵의 컬러 룩업 테이블이란 이미지의 색상을 새롭게 해석하여 색감을 바꾸고 다양한 변화를 규칙화 한 것.
-  +원리는 색상의 기본값인 RGB의 무수히 많은 입력값을 다른 새로운 색상표에 대응하여 다른 색감으로 출력하는 방식.
-  +룩업 테이블을 통해 색보정 가능. 
-  +세 개의 1d 룩업 테이블 대신, 조금 더 (채도감소(desaturation)와 같은) 세련된 색 변환이 가능해지는 3d 룩업 테이블 하나를 사용.
+  + 원리는 색상의 기본값인 RGB의 무수히 많은 입력값을 다른 새로운 색상표에 대응하여 다른 색감으로 출력하는 방식.
+  + 룩업 테이블을 통해 색보정 가능. 
+  + 세 개의 1d 룩업 테이블 대신, 조금 더 (채도감소(desaturation)와 같은) 세련된 색 변환이 가능해지는 3d 룩업 테이블 하나를 사용.
 
 -----------------------------------------------
 
@@ -49,61 +49,81 @@ http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/3D_LUT_33X33X33.
 + LUT를 사용하는 장비나 소프트웨어마다 자신의 LUT의 포맷을 다르게 설정하고 있기 때문에 그 형식에 맞추어 사용해야만 정상적으로 작동이 가능하다.
 + 아래 목록표는 다양한 장비와 프로그램에서 사용되는 1D LUT, 3D LUT 포맷을 정리한 것이다.
 
-| 1D LUTs |                             | 3D LUT |
-| --- | --- |
-| DaVinci Resolve 1D Cube LUT (.cube)	| DaVinci Resolve 3D Cube LUT (.cube) |
-Nucoda CMS 1D LUT (.cms)	              Autodesk 3D  LUT (.3dl)
-DaVinci Resolve 1D LUT (.ilut, .olut)	  FSI 3D LUT (.dat)
-Discreet 1D LUT (.lut)	                Amira Look (.aml)
-Arri Look 1D tonemap (.xml)           	Panasonic VLT 3D LUT (.vlt)
-                                        CTL LUT (.ctl)
-                                        Nucoda CMS 3D LUT (.cms)
-                                        Quantel 3D LUT (.txt)
-                                        DVS Clipster 3D LUT (.xml, .txt)
-                                        DaVinci 3D LUT (.davlut)
-                                        Resolve DAT 3D LUT (.dat)
-                                        Iridas Look (.look)
-                                        LightIllusion MatchLight 3D LUT (.mlc)
-                                        Unwrapped Texture LUT Image (.tiff)
-                                        CMS Test Pattern LUT Image (.tiff)
-                                        Hald CLUT Image (.tiff)
+ 1D LUTs    |                              | 3D LUT
+ 
+ ---- | ---- |
+ 
+ DaVinci Resolve 1D Cube LUT (.cube)  	| DaVinci Resolve 3D Cube LUT (.cube) 
+ 
+ Nucoda CMS 1D LUT (.cms)	              | Autodesk 3D  LUT (.3dl)
+ 
+ DaVinci Resolve 1D LUT (.ilut, .olut)  | FSI 3D LUT (.dat)
+ 
+ Discreet 1D LUT (.lut)	                | Amira Look (.aml)
+ 
+ Arri Look 1D tonemap (.xml)            | Panasonic VLT 3D LUT (.vlt)
+ 
+                                        | CTL LUT (.ctl)
                                         
-LUT 만들기
-LUT는 자신이 필요해 의해서 만들어 쓰는 것도 가능합니다. 
-만드는 방법은 무척이나 다양합니다. 후반 작업용 소프트웨어나 DI 툴, 이미지 편집 툴을 이용할 수도 있고 전문 LUT 제작 툴을 사용 할 수도 있습니다.           
+                                        | Nucoda CMS 3D LUT (.cms)
+                                        
+                                        | Quantel 3D LUT (.txt)
+                                        
+                                        | DVS Clipster 3D LUT (.xml, .txt)
+                                        
+                                        | DaVinci 3D LUT (.davlut)
+                                        
+                                        | Resolve DAT 3D LUT (.dat)
+                                        
+                                        | Iridas Look (.look)
+                                        
+                                        | LightIllusion MatchLight 3D LUT (.mlc)
+                                        
+                                        | Unwrapped Texture LUT Image (.tiff)
+                                        
+                                        | CMS Test Pattern LUT Image (.tiff)
+                                        
+                                        | Hald CLUT Image (.tiff)
+                  
+---------------------------
+ 
+## LUT 만들기
 
-1. CMS 테스트 패턴
-CMS 테스트 패턴에 대입해 LUT를 만드는 방법이 가장 손쉬운 방법일 수 있습니다. 
-보정이 끝난 이 후 LUT를 생성 할 때 사용자가 필요로 하는 툴에서 사용이 가능하도록 LUT 포맷만 맞추어 주면 어디서든 사용이 가능합니다.
-CMS라는 단어는 Color Management System의 약어이며 만들어 낼 수 있는 모든 색값을 입력 장치가 읽을 수 있도록 일정한 패턴을 만든 후 색값을 받아서서 데이터화 하는 작업을 지칭합니다.
-LUT를 만들 때 사용되는 이미지 패턴은 툴마다 CMS패턴 혹은 LUT패턴 등의 다양한 이름으로 제공되고 있습니다.
-LUT의 사이즈에 따라서 색을 보정 할 수 있는 패턴의 크기와 수가 다릅니다. 
-당연한 것이겠지만 LUT의 사이즈가 크면 클 수록 색 보정을 할 수 있는 범위가 촘촘해지기 떄문에 더 정밀하게 색을 보정 할 수 있습니다.
-CMS 패턴 이미지에 색보정 값을 적용 시켜 이 패턴을 가지고 LUT를 만드는 방법이 있습니다.
++ __LUT는 자신이 필요해 의해서 만들어 쓰는 것도 가능.__ 
++ 만드는 방법은 무척이나 다양 - 후반 작업용 소프트웨어나 DI 툴, 이미지 편집 툴을 이용할 수도 있고 전문 LUT 제작 툴을 사용 할 수도 있다.           
+
+##### 1. CMS 테스트 패턴
++ CMS 테스트 패턴에 대입해 LUT를 만드는 방법이 가장 손쉬운 방법. 
++ 보정이 끝난 이 후 LUT를 생성 할 때 사용자가 필요로 하는 툴에서 사용이 가능하도록 LUT 포맷만 맞추어 주면 어디서든 사용이 가능.
++ CMS라는 단어는 Color Management System의 약어이며 만들어 낼 수 있는 모든 색값을 입력 장치가 읽을 수 있도록 일정한 패턴을 만든 후 색값을 받아서서 데이터화 하는 작업을 지칭.
++ LUT를 만들 때 사용되는 이미지 패턴은 툴마다 CMS패턴 혹은 LUT패턴 등의 다양한 이름으로 제공되고 있다.
++ LUT의 사이즈에 따라서 색을 보정 할 수 있는 패턴의 크기와 수가 다르다. 
++ 당연한 것이겠지만 LUT의 사이즈가 크면 클 수록 색 보정을 할 수 있는 범위가 촘촘해지기 떄문에 더 정밀하게 색을 보정 할 수 있다.
++ CMS 패턴 이미지에 색보정 값을 적용 시켜 이 패턴을 가지고 LUT를 만드는 방법이 있다.
 
 — LUT 사이즈에 따라 다르게 나타나는 CMS 테스트 패턴
 2X2X2
-http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_2X2X2.jpg
+[!(http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_2X2X2.jpg)](http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_2X2X2.jpg)
 3X3X3
-http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_3X3X3.jpg
+[!(http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_3X3X3.jpg)](http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_3X3X3.jpg)
 10X10X10
-http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_10X10X10.jpg
+[!(http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_10X10X10.jpg)](http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_10X10X10.jpg)
 33X33X33
-http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_33X33X33.jpg
+[!(http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_33X33X33.jpg)](http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/CMS_33X33X33.jpg)
 
-2. Photoshop: Export Color Table
-포토샵을 이용하면 외부의 LUT를 불러와 포토샵 안에서 적용시키는 것은 물론 자체적으로 색보정한 이미지를 기반으로 LUT를 생성한 후 외부의 다른 영상에도 LUT를 적용을 할 수 있습니다. 
-포토샵은 LUT 사이즈가 무려 256X256X256까지 지원이 될 정도는 엄청난 성능을 자랑합니다.
-포토샵에서 출력하는 LUT 포맷은 3dl, csp, cube, icc 4가지입니다.
+##### 2. Photoshop: Export Color Table
++ 포토샵을 이용하면 외부의 LUT를 불러와 포토샵 안에서 적용시키는 것은 물론 자체적으로 색보정한 이미지를 기반으로 LUT를 생성한 후 외부의 다른 영상에도 LUT를 적용을 할 수 있다. 
++ 포토샵은 LUT 사이즈가 무려 256X256X256까지 지원이 될 정도는 엄청난 성능을 자랑한다.
++ 포토샵에서 출력하는 LUT 포맷은 3dl, csp, cube, icc 4가지이다.
 
 LUT 파일을 불러올 수 있다.
 http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/Photoshop_LUT_1.png
 LUT 출력 창
 http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/Photoshop_LUT_2.png
 
-3. Davinci Resolve: Generator LUT
-다빈치 리졸브에서는 Color페이지에서 프라이머리 색보정을 한 클립을 선택한 후 보조 버튼을 클릭해 보조 메뉴를 띄우게 되면 다빈치 리졸브용 .cube 포맷과 파나소닉용 .vlt LUT를 생성할 수 있습니다.
-생성 시 다빈치 리졸브의 LUT폴더가 기본으로 열리고 이 곳에 LUT를 저장할 경우 프로그램의 재실행 없이 바로 작업에 활용이 가능합니다.
+##### 3. Davinci Resolve: Generator LUT
++ 다빈치 리졸브에서는 Color페이지에서 프라이머리 색보정을 한 클립을 선택한 후 보조 버튼을 클릭해 보조 메뉴를 띄우게 되면 다빈치 리졸브용 .cube 포맷과 파나소닉용 .vlt LUT를 생성할 수 있다.
++ 생성 시 다빈치 리졸브의 LUT폴더가 기본으로 열리고 이 곳에 LUT를 저장할 경우 프로그램의 재실행 없이 바로 작업에 활용이 가능하다.
 
 Davinci Resolve에서 LUT 생성하기
 http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/Davinci-Resolve%EC%97%90%EC%84%9C-LUT-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0.png
