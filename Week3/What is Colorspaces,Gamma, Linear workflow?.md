@@ -44,7 +44,9 @@ ACES
 + ACES 색공간은 인간의 가시영역을 나타내는 색공간을 모두 포함하고 있다. 
 + 디지털 시네마 환경에서 사용되는 DCI-P3 색공간, HDTV Rec.709 및 UHDTV Rec.202 색공간을 모두 포함한다.
 + 제작 현장에서의 시네마룩과 후반작업에서의 확실한 색보정과 넓은 색공간과 색심도를 보유함으로써 제작 과정에서의 풍부한 색감과 계조를 유지할 수 있는 것뿐만 아니라 화면지향 선형화(Scene Referred Linearization) 기술을 사용함으로써 후반 작업에서 보다 자유로운 창작 환경을 제공할 수 있다.
+
 ![(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CIE1931xy_blank.svg/330px-CIE1931xy_blank.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CIE1931xy_blank.svg/330px-CIE1931xy_blank.svg.png)
+
 
 __대부분의 디스플레이는 생산할 수 있는 색상이 제한되어 있기 때문에 각 장치도 특정 색상 gamut를 정의하는 하나 이상의 색상 표준을 따를 것이다.__
 __놀랄 만큼 많은 다양한 색깔의  gamut이 있지만, 상황에 따라 나의 필요에 가장 잘 맞는 것이 있을 것이다.__
