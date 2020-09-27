@@ -17,7 +17,7 @@
 ![(https://www.benq.com/content/dam/b2c/en/knowledge-center/what-is-color-gamut/color-gamut-5.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)](https://www.benq.com/content/dam/b2c/en/knowledge-center/what-is-color-gamut/color-gamut-5.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg)
 
 sRGB
-+ sRGB는 주변에서 가장 흔히 발견되는 색상 표준이다. 
++ sRGB는 주변에서 가장 흔히  색상 표준이다. 
 + sRGB는 입력과 출력에 매우 적은 시간이 걸려서 __sRGB를 가장 많이 쓰고 있다.__
 + 현재 사용되는 gamut 중에 __표현할 수 있는 색의 범위가 가장 적다.__
 
