@@ -56,4 +56,5 @@
 
 참조
 https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log
+
 https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
