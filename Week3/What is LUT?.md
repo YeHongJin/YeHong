@@ -28,8 +28,7 @@
 + 1D LUT의 특징은 Lift, Gamma, Gain, Contrast에 1:1로 매칭이 되고, Hue, Saturation의 보정 값은 1D LUT에 아무런 변화를 주지 못한다. 
 + 이러한 결과로 인해 흔히들 __1D LUT를 흔히 밝기 값만 보정한다고 해서 ‘휘도 곡선’이라고 표현하고 있다.__
 
-<img src="http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/1D_LUT_1a.png" width="400" height="300">
-<img src="http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/1D_LUT_2a.png" width="400" height="300">
+<img src="http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/1D_LUT_1a.png" width="400" height="300"><img src="http://keruluke.com/archived_web/kft/wp-content/uploads/2015/06/1D_LUT_2a.png" width="400" height="300">
 
 #### 2. 3D LUT
 
