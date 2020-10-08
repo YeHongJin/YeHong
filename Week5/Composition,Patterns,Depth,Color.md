@@ -193,3 +193,4 @@ http://www.hollywoodlexicon.com/frame.html
 https://www.acmi.net.au/education/online-learning/film-it/cinematography/framing-camera-angles-movement/
 https://www.studiobinder.com/blog/how-to-use-color-in-film-50-examples-of-movie-color-palettes/
 https://nofilmschool.com/2016/10/how-cinematographers-use-geometric-shapes-tell-stories-visuals
+
