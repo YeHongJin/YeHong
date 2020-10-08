@@ -53,13 +53,15 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 + 사진의 가로줄은 편안함, 영속성, 안정감을 주는 경향이 있다. 
 + __이미지에서 수평선의 편안하고 안정된 느낌을 더욱 강조하고 싶다면, 좋은 방법은 수직이 아닌 수평 프레임을 사용하는 것이다.__
 + 대각선은 시청자의 관심을 사진의 주요 주제로 유도하는 데 효과적이다. 또한 행동감을 전달하고 사진을 역동적이고 흥미롭게 만들 수 있다. 
-+ 대각선은 길, 나무의 선, 울타리, 강 또는 이미지의 다른 구성요소의 형태일 수 있다.
 ![(https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)](https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)
 
 ## 형태
 
 + 반면에 형태는 일정한 공간을 차지한다는 뜻으로 3차원 형상이다. 
 + 형태는 기본적으로 3차원 형상으로 부드러운 우아한 그림자를 드리우므로 측면 조명에 의해 가장 잘 강조되며, 빛과 그림자의 차이는 물체의 깊이를 더 잘 묘사하고 그 의미와 메시지에 대한 관능적인 이해를 증폭시킨다.
++ 큐브와 같은 하나의 형태를 묘사할 때에도, 어떤 각도에서 봐도 실제로 형태에 의해 차지하는 모양을 묘사할 수 있다는 것을 의미한다. 
++ 형태는 그림보다 조각, 건축에 훨씬 더 자주 쓰이지만, 형태는 많은 예술 장르의 중요한 요소이다.
+![(https://d2jv9003bew7ag.cloudfront.net/uploads/cody-hudson-future-memory-dressden.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/cody-hudson-future-memory-dressden.jpg)
 
 ## 공간
 
@@ -127,6 +129,7 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 + 사진에서 강조를 만드는 많은 방법들이 있다. 
 + 이미지의 중심에 위치한 외로운 소재가 눈길을 끈다. 이러한 방법은 강조를 사진에서 가장 쉽게 표현할 수 있는 방법이다.
 ![(https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_emphasis.jpg)](https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_emphasis.jpg)
+![(https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_movement.jpg)](https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_movement.jpg)
 
 ## 대비
 
