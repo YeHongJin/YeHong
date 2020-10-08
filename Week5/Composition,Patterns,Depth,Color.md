@@ -57,11 +57,25 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 
 ## 형태
 
-+ 반면에 형태는 일정한 공간을 차지한다는 뜻으로 3차원 형상이다. 
-+ 형태는 기본적으로 3차원 형상으로 부드러운 우아한 그림자를 드리우므로 측면 조명에 의해 가장 잘 강조된다.
-+ 큐브와 같은 하나의 형태를 묘사할 때에도, 어떤 각도에서 봐도 실제로 형태에 의해 차지하는 모양을 묘사할 수 있다는 것을 의미한다. 
-+ 형태는 그림보다 조각, 건축에 훨씬 더 자주 쓰이지만, 형태는 많은 예술 장르의 중요한 요소이다.
-![(https://d2jv9003bew7ag.cloudfront.net/uploads/cody-hudson-future-memory-dressden.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/cody-hudson-future-memory-dressden.jpg)
++ 형태는 심미적이고 심리적인 의미를 가지고 있다.
++ 원은 순진함, 행복함, 친근함을 상징하기 때문에, 우리가 영웅, 아이들, "착한 남자들" 등 많은 애니메이션 등장인물들의 몸이 둥근 모양을 하고 있는 것을 볼 수 있는 이유다.
+
+![(https://nofilmschool.com/sites/default/files/styles/article_superwide/public/geometry.png?itok=fQktfqKx)](https://nofilmschool.com/sites/default/files/styles/article_superwide/public/geometry.png?itok=fQktfqKx)
+![(https://nofilmschool.com/sites/default/files/styles/article_1500/public/ponyo.jpg?itok=a8IPC7mg)](https://nofilmschool.com/sites/default/files/styles/article_1500/public/ponyo.jpg?itok=a8IPC7mg)
+
++ 사각형은 종종 부자연스럽거나 인공적인 것을 나타낼 수 있다는 점에서 원과 거의 정반대라고 볼 수 있다. 
++ 정사각형은 또한 "안정", "안정성" 또는 지루하거나 구식을 표현할 때 사용된다.
+![(https://nofilmschool.com/sites/default/files/styles/article_1500/public/incredibles.jpg?itok=QTQPm3fK)](https://nofilmschool.com/sites/default/files/styles/article_1500/public/incredibles.jpg?itok=QTQPm3fK)
+
++ 어떤 이유에서인지 삼각형에는 공포와 불신, 의심을 이끌어낸다.
++ 그래서 어떤 영화나 애니메이션의 악당들은 아주 적은 수의 둥근 모서리와 많은 삼각형의 형태의 포인트를 가지고 있다.
+
+![(https://laughingsquid.com/wp-content/uploads/2016/10/Darth-Vader-Triangle.png)](https://laughingsquid.com/wp-content/uploads/2016/10/Darth-Vader-Triangle.png)
+![(https://nofilmschool.com/sites/default/files/styles/article_1500/public/maleficent.jpg?itok=jFasVaa4)](https://nofilmschool.com/sites/default/files/styles/article_1500/public/maleficent.jpg?itok=jFasVaa4)
+
++ 삼각형은 넓은 면이 아래로 내려간 삼각형이면 산맥이나 대 피라미드처럼 안정된 것을 나타낼 수 있지만, 반대로 뒤집으면 극도로 불안한 느낌을 표현 할 수 있다.
+
+
 
 ## 공간
 
