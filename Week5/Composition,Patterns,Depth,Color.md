@@ -1,3 +1,29 @@
+Composition이란 장면의 요소가 카메라 프레임에 배열되는 방식을 말한다. 샷 구성은 의도된 메시지를 전달하기 위한 시각적 요소를 배열하는 것을 말한다.
+첫 번째 평가는 항상 "나는 무엇을 시각화하려고 하는가?"
+어떤 느낌, 주제적인 메시지 또는 경험을 만들어야 내 요점을 명확하고 효과적으로 만들 수 있을까?
+일단 이런 본질적인 맥락을 잡게 되면, 우리는 우리의 의도를 집으로 몰고 가기 위해 가능한 최선의 방법으로 모든 장면 요소를 배열하기 위해 샷 구성을 사용할 수 있다.
+구체적인 이유로 구체적인 촬영 방법을 알면 관객들에게 더 큰 영향을 미치게 되고, 더 오랫동안 몰입하게 된다. 그리고 관객들을 끌어들이는 것은 영화 제작의 필수 조건이다.
+1.Rule of Thirds
+첫째로, 3분의 1의 규칙은 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나이다. 캐릭터가 장면의 다른 요소와의 관계를 보여줄 수 있도록 배치하는 것이다.
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg
+http://www.hollywoodlexicon.com/one/frame5.jpg
+캐릭터가 세상에서 차지하는 위치를 쉽게 결정할 수 있는 방법이다.
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg
+균형과 대칭
+프레임 구성 규칙을 이해하는 것은 감독들과 영화 제작자들에게 매우 귀중한 지식이다.
+그리고 언제 그들을 부숴야 할지 아는 것도 그렇다.
+3분의 1의 법칙을 깨고 완벽하게 대칭적인 샷을 하는 것은 매우 구체적인 이유로 사용된다.
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg
+혹은 완전히 대칭적인 장소를 만들어내 관객들은 순간적으로 압도감을 느끼게 된다.
+https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg
+예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다. 그리고 눈을 화면 중앙으로 이끌면 결국 당신의 이야기를 더 잘 전달하게 되고, 더 많은 감동을 얻을 수 있을 것이다. 과거 영화들이 이렇게 잘 해냈다. 샷의 균형과 대칭은 매우 효과적일 수 있다.
+
+리드선은 장면의 핵심 요소로 눈을 이끄는 실제 선(또는 때로는 상상의 선)이다.
+예술가들은 이 기술을 시청자의 시선을 유도하기 위해 사용하지만, 그들은 또한 캐릭터를 필수적인 사물, 상황, 또는 2차 주제에 연결시키기 위해 사용한다. 어떤 장면에서 당신의 시선이 끌리든 간에, 선도적인 선들은 아마도 그것과 관련이 있을 것이다.
+
+
 예술의 여섯 가지 요소 - 선, 형태, 색, 질감, 공간, 
 
 예술에서 선을 사용하는 방법
@@ -92,3 +118,38 @@ https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant
 그러나 대비는 물리적인 요소도 포함한다. 질감은 사진 촬영에 대비의 원리를 활용하는 또 다른 방법이다. 
 사진에 두 개 이상의 질감을 포함하면 촉각을 일으킬 뿐만 아니라 위치감을 만들어낸다.
 https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_contrast.jpg
+
+Depth
+필드 깊이(Depth of Field: DOF)는 이미지에서 물체가 허용 가능할 정도로 선명하게 나타나는 영역의 크기를 설명하는 데 사용되는 용어다.
+필드의 깊이는 스펙트럼이며, 다양한 샷에 다른 효과를 가져오는 다양한 변화를 제공한다
+https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-04-Depth-of-Field-Chart.png
+https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Diagram-Select-Focus-StudioBinder.png
+https://s.studiobinder.com/wp-content/uploads/2018/11/Shallow-Depth-Of-Field-StudioBinder.png
+https://s.studiobinder.com/wp-content/uploads/2018/11/Aperture-Depth-of-Field-In-Post-StudioBinder.png
+https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Focal-Length-Selective-Focus-StudioBinder.png
+필드의 깊이는 영화 어휘의 필수적인 부분이며 영화 제작자들이 관객의 관심을 이끌 수 있는 도구다. 초점을 맞추고 있는 것이 주의를 기울여야 할 중요한 것이라고 말하고 있기 때문에, 포커스 대상을 결정하는 것은 시청자의 시선을 조절하는 데 필수적이다.
+단순히 등장인물의 감정 상태를 전달하기보다는 변화하는 영역의 깊이의 효과를 이용하여 대상자의 감정 상태의 변화를 표현할 수도 있다.
+장면의 시작 부분에서, 핵심 정보 조각이 전경에 있다면, 당신은 청중들을 그 세부사항에 고정시킬 수 있다. 만약 현장을 반쯤 지나면, 새로운 핵심 정보가 배경에 있다면, 여러분은 그것에 집중해서 청중들에게 "이봐, 지금 이것 좀 봐!"라고 말할 수 있다.
+https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-2-Memories-of-Murder-caption.jpg
+https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-Memories-of-Murder-caption-2.jpg
+그는 신병 훈련소 장면에서 이 렌즈를 사용해 "하나의" 병사를 제외시키지 않았다. 그는 군인의 경력에 있어서 이 부분은 모두 평등하다고 믿었다. 그래서 그에게는 작문의 모든 병사들이 비판적인 초점을 맞출 필요가 있었다.
+https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-07-Full-Metal-Jacket-Stanley-Kubrick-caption-2.jpg
+
+
+
+참조
+
+https://www.widewalls.ch/magazine/five-elements-of-art
+https://photography.tutsplus.com/tutorials/6-elements-of-design-for-striking-photographs--photo-2574
+https://expertphotography.com/principles-of-design-photography/
+https://nuartapp.wordpress.com/2014/07/09/five-elements-of-composition-in-photography/comment-page-1/
+https://www.studiobinder.com/blog/what-is-a-motif-in-film/
+http://www.sarahakwisombe.com/blog/2015/8/24/10-visually-inspiring-films
+https://cinefade.com/knowledge/how-to-adjust-depth-of-field-in-film
+https://www.studiobinder.com/blog/depth-of-field/
+https://www.hurlbutacademy.com/depth-field-character-story/
+http://www.elementsofcinema.com/cinematography/depth-of-field.html
+https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/
+http://www.hollywoodlexicon.com/frame.html
+https://www.acmi.net.au/education/online-learning/film-it/cinematography/framing-camera-angles-movement/
+https://www.studiobinder.com/blog/how-to-use-color-in-film-50-examples-of-movie-color-palettes/
