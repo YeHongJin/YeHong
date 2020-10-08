@@ -179,18 +179,32 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 참조
 
 https://www.widewalls.ch/magazine/five-elements-of-art
+
 https://photography.tutsplus.com/tutorials/6-elements-of-design-for-striking-photographs--photo-2574
+
 https://expertphotography.com/principles-of-design-photography/
+
 https://nuartapp.wordpress.com/2014/07/09/five-elements-of-composition-in-photography/comment-page-1/
+
 https://www.studiobinder.com/blog/what-is-a-motif-in-film/
+
 http://www.sarahakwisombe.com/blog/2015/8/24/10-visually-inspiring-films
+
 https://cinefade.com/knowledge/how-to-adjust-depth-of-field-in-film
+
 https://www.studiobinder.com/blog/depth-of-field/
+
 https://www.hurlbutacademy.com/depth-field-character-story/
+
 http://www.elementsofcinema.com/cinematography/depth-of-field.html
+
 https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/
+
 http://www.hollywoodlexicon.com/frame.html
+
 https://www.acmi.net.au/education/online-learning/film-it/cinematography/framing-camera-angles-movement/
+
 https://www.studiobinder.com/blog/how-to-use-color-in-film-50-examples-of-movie-color-palettes/
+
 https://nofilmschool.com/2016/10/how-cinematographers-use-geometric-shapes-tell-stories-visuals
 
