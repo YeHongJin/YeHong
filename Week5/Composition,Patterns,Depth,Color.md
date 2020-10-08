@@ -1,53 +1,69 @@
-Composition이란 장면의 요소가 카메라 프레임에 배열되는 방식을 말한다. 샷 구성은 의도된 메시지를 전달하기 위한 시각적 요소를 배열하는 것을 말한다.
-첫 번째 평가는 항상 "나는 무엇을 시각화하려고 하는가?"
-어떤 느낌, 주제적인 메시지 또는 경험을 만들어야 내 요점을 명확하고 효과적으로 만들 수 있을까?
-일단 이런 본질적인 맥락을 잡게 되면, 우리는 우리의 의도를 집으로 몰고 가기 위해 가능한 최선의 방법으로 모든 장면 요소를 배열하기 위해 샷 구성을 사용할 수 있다.
-구체적인 이유로 구체적인 촬영 방법을 알면 관객들에게 더 큰 영향을 미치게 되고, 더 오랫동안 몰입하게 된다. 그리고 관객들을 끌어들이는 것은 영화 제작의 필수 조건이다.
-1.Rule of Thirds
-첫째로, 3분의 1의 규칙은 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나이다. 캐릭터가 장면의 다른 요소와의 관계를 보여줄 수 있도록 배치하는 것이다.
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg
-http://www.hollywoodlexicon.com/one/frame5.jpg
-캐릭터가 세상에서 차지하는 위치를 쉽게 결정할 수 있는 방법이다.
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg
-균형과 대칭
-프레임 구성 규칙을 이해하는 것은 감독들과 영화 제작자들에게 매우 귀중한 지식이다.
-그리고 언제 그들을 부숴야 할지 아는 것도 그렇다.
-3분의 1의 법칙을 깨고 완벽하게 대칭적인 샷을 하는 것은 매우 구체적인 이유로 사용된다.
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg
-혹은 완전히 대칭적인 장소를 만들어내 관객들은 순간적으로 압도감을 느끼게 된다.
-https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg
-예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다. 그리고 눈을 화면 중앙으로 이끌면 결국 당신의 이야기를 더 잘 전달하게 되고, 더 많은 감동을 얻을 수 있을 것이다. 과거 영화들이 이렇게 잘 해냈다. 샷의 균형과 대칭은 매우 효과적일 수 있다.
+# What is Composition?
 
-리드선은 장면의 핵심 요소로 눈을 이끄는 실제 선(또는 때로는 상상의 선)이다.
-예술가들은 이 기술을 시청자의 시선을 유도하기 위해 사용하지만, 그들은 또한 캐릭터를 필수적인 사물, 상황, 또는 2차 주제에 연결시키기 위해 사용한다. 어떤 장면에서 당신의 시선이 끌리든 간에, 선도적인 선들은 아마도 그것과 관련이 있을 것이다.
++ Composition이란 장면의 요소가 카메라 프레임에 배열되는 방식을 말한다. 
++ 샷 구성은 의도된 메시지를 전달하기 위한 시각적 요소를 배열하는 것을 말한다.
+## 우리는 항상 생각해야 한다. "나는 무엇을 시각화하려고 하는가?"
++ 어떤 느낌, 주제적인 메시지 또는 경험을 만들어야 내 요점을 명확하고 효과적으로 만들 수 있을까?
++ 일단 이런 본질적인 맥락을 잡게 되면, 우리는 우리의 의도대로 하기 위해 가능한 최선의 방법으로 모든 장면 요소를 배열하기 위해 샷 구성을 사용할 수 있다.
++ 관객들을 끌어들이는 것은 영화 제작의 필수 조건이기 때문에, 구체적인 이유로 구체적인 촬영 방법을 알면 관객들에게 더 큰 영향을 미치게 되고 관객들이 더 오랫동안 몰입하게 된다. 
 
+### 1.Rule of Thirds
++ 첫째로, 3분의 1의 규칙은 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나이다. 
++ 캐릭터가 장면의 다른 요소와의 관계를 보여줄 수 있도록 배치하는 것이다.
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)
+![(http://www.hollywoodlexicon.com/one/frame5.jpg)](http://www.hollywoodlexicon.com/one/frame5.jpg)
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg)
 
-예술의 여섯 가지 요소 - 선, 형태, 색, 질감, 공간, 
+__캐릭터가 세상에서 차지하는 위치를 쉽게 결정할 수 있는 방법이다.__
 
-예술에서 선을 사용하는 방법
-모든 예술 요소 중에서 선이 가장 필수적이라고 말하는 것은 어쩐지 자연스럽게 다가온다.
-디자인의 6가지 요소 중 선이 가장 강하고 중요하며 영향력이 있다. 선이 없으면 형체가 있을 수 없다. 모양이 없으면 형태가 있을 수 없다. 
-선은 예술적 표현의 일차적인 도구로서, 따라서 개성을 표현하는 면에서 필적과 유사하다. 
-선은 수직, 수평, 대각선 또는 곡선일 수 있다. 줄은 짧거나 길거나 굵거나 얇을 수 있다. 선은 당신을 멀어지게 하거나 이미지에서 앞으로 이동시킬 수 있다. 
-라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.
-얇은 선은 어떤 사람들은 불안정한 것으로 경험할 수 있고, 어떤 사람들은 취약하다고 경험할 수 있다. 굵은 선은 경직되고 의존적인 것으로 경험할 수도 있고, 지배적이거나 엄격한 것으로 경험할 수도 있다.
-곡선은 종종 부드럽고, 진정되고, 안정되고, 이완되는 것으로 인식된다. 
-들쭉날쭉한 선은 힘차고 혼란스럽고 날카롭고 위협적인 것으로 인식될 수 있다.
-사진의 가로줄은 편안함, 영속성, 안정감을 주는 경향이 있다. 이미지에서 수평선의 편안하고 안정된 느낌을 더욱 강조하고 싶다면, 좋은 방법은 수직이 아닌 수평 프레임을 사용하는 것이다.
-대각선은 시청자의 관심을 사진의 주요 주제로 유도하는 데 효과적이다. 그들은 행동감을 전달하고 사진을 역동적이고 흥미롭게 만들 수 있다. 
-대각선은 길, 나무의 선, 울타리, 강 또는 이미지의 다른 구성요소의 형태일 수 있다.
-https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/2.jpg
-https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/1.jpg
-https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2
+### 균형과 대칭
++ 프레임 구성 규칙을 이해하는 것은 감독들과 영화 제작자들에게 매우 중요한 지식이다.
++ 그리고 언제 규칙을 부숴야 할지 아는 것도 그렇다.
++ 3분의 1의 법칙을 깨고 완벽하게 대칭적인 샷을 하는 것은 매우 구체적인 이유로 사용된다.
 
-미술의 형태
-형상이 이미지에서 필수적인 요소일 때 명심해야 할 가장 중요한 것은 피사체가 전면 조명이나 백라이트일 때 가장 잘 정의된다는 것이다. 
-그 모양이 성공적으로 식별되려면 주위 잡동사니로부터 분리되도록 주변과 강한 대조를 이루어야 한다.
-영상의 모양은 실루엣으로도 볼 수 있다
-실루엣이 모든 모양 중에서 가장 순수하고 강한 형태라는 점도 언급할 만하다.
-https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/3.jpg
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-min.jpg)
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)
+![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg)
+
+__혹은 완전히 대칭적인 장소를 만들어내 관객들은 순간적으로 압도감을 느끼게 된다.__
+
++ 예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다. 
++ 그리고 눈을 화면 중앙으로 이끌면 결국 당신의 이야기를 더 잘 전달하게 되고, 더 많은 감동을 얻을 수 있을 것이다.
++ 그렇기 때문에 의도가 있는 샷의 균형과 대칭은 매우 효과적일 수 있다.
+
+---------------------
+
+# 예술의 여섯 가지 요소 - 선, 형태, 공간, 색, 질감, 패턴 
+
+## 선
+
++ 모든 예술 요소 중에서 선이 가장 필수적이고 중요하며 영향력있다.
++ 선이 없으면 형체가 있을 수 없다. 모양이 없으면 형태가 있을 수 없다. 
++ 선은 예술적 표현의 일차적인 도구로서, 수직, 수평, 대각선 또는 곡선일 수 있다.
++ 선은 짧거나 길거나 굵거나 얇을 수 있다. 선은 우리를 이미지에서 멀어지게 하거나 앞으로 이동시킬 수 있다. 
+
+__라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
+
++ 얇은 선은 어떤 사람들은 불안정한 것으로 경험할 수 있고, 어떤 사람들은 취약하다고 경험할 수 있다. 
++ 굵은 선은 경직되고 의존적인 것으로 경험할 수도 있고, 지배적이거나 엄격한 것으로 경험할 수도 있다.
++ 곡선은 종종 부드럽고, 진정되고, 안정되고, 이완되는 것으로 인식된다. 
++ 들쭉날쭉한 선은 힘차고 혼란스럽고 날카롭고 위협적인 것으로 인식될 수 있다.
++ 사진의 가로줄은 편안함, 영속성, 안정감을 주는 경향이 있다. 
++ __이미지에서 수평선의 편안하고 안정된 느낌을 더욱 강조하고 싶다면, 좋은 방법은 수직이 아닌 수평 프레임을 사용하는 것이다.__
++ 대각선은 시청자의 관심을 사진의 주요 주제로 유도하는 데 효과적이다. 또한 행동감을 전달하고 사진을 역동적이고 흥미롭게 만들 수 있다. 
++ 대각선은 길, 나무의 선, 울타리, 강 또는 이미지의 다른 구성요소의 형태일 수 있다.
+![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/2.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/2.jpg)
+![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/1.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/1.jpg)
+![(https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)](https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)
+
+## 형태
+
++ 형상이 이미지에서 잘 보이려면 피사체에 전면 조명이나 백라이트를 가할 때 가장 잘 드러난다. 
++ 그 모양이 성공적으로 식별되려면 주위 잡동사니로부터 분리되도록 주변과 강한 대조를 이루어야 한다.
++ 영상의 모양은 실루엣으로도 볼 수 있다
++ 실루엣이 모든 모양 중에서 가장 순수하고 강한 형태라는 점도 언급할 만하다.
+![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/3.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/3.jpg)
 
 반면에 형태는 일정한 공간을 차지한다는 뜻으로 3차원 형상이다. 형상의 특성은 형태에도 적용되며, 유일한 차이점은 3차원의 결합(일반적으로 깊이로 표시됨)을 통해 표현된다.
 형태는 기본적으로 3차원 형상으로 부드러운 우아한 그림자를 드리우므로 측면 조명에 의해 가장 잘 강조되며, 빛과 그림자의 차이는 물체의 깊이를 더 잘 묘사하고 그 의미와 메시지에 대한 관능적인 이해를 증폭시킨다.
