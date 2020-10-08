@@ -14,7 +14,7 @@ __우리는 항상 생각해야 한다. "나는 무엇을 시각화하려고 하
 ![(http://www.hollywoodlexicon.com/one/frame5.jpg)](http://www.hollywoodlexicon.com/one/frame5.jpg)
 ![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Rule-of-Thirds-min.jpg)
 
-__캐릭터가 세상에서 차지하는 위치를 쉽게 결정할 수 있는 방법이다.__
+__캐릭터가 공간에서 가장 쉽게 위치를 차지하는 방법이다.__
 
 ### 균형과 대칭
 + 프레임 구성 규칙을 이해하는 것은 감독들과 영화 제작자들에게 매우 중요한 지식이다.
