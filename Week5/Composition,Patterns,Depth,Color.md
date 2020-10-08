@@ -91,6 +91,7 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 + 질감은 표면의 질로 눈보다는 피부로 느낄 수 있는 감각이다. 
 + 하지만, 우리는 표면과 재료가 얼마나 특별히 보이는지에 대한 지식을 쌓을 수 있었는데, 그 이유는 표면과 재료에 대한 우리의 뛰어난 __경험__ 덕분이다. 
 + 이는 표면의 특성을 평면으로 번역하면 화가가 그 질감을 진솔하게 표현하는 솜씨를 발휘하기 때문에 시력을 통해 질감을 경험하게 된다는 것을 의미한다.
+
 ![(https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)
 + 질감은 이른 아침이나 초저녁의 햇빛이 비치는 쪽빛이나 태양이 수직이고 하늘에 높이 떠 있을 때의 머리 위의 빛에 의해 강조될 수 있다.
 + 나아가 배경의 질감은 흥미진진하고 감성이 충만한 구도를 만들어 낼 수 있다는 점에 주목할 필요가 있다. 
@@ -125,7 +126,7 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 + 강조는 이미지에서 관심을 형성한다. 
 + 색상, 공간, 텍스처 및 라인이 함께 작용하여 이미지의 초점을 결정한다.
 + 사진에서 강조를 만드는 많은 방법들이 있다. 
-+ 이미지의 중심에 위치한 외로운 소재가 눈길을 끈다. 이러한 방법은 강조를 사진에서 가장 쉽게 표현할 수 있는 부분이다.
++ 이미지의 중심에 위치한 외로운 소재가 눈길을 끈다. 이러한 방법은 강조를 사진에서 가장 쉽게 표현할 수 있는 방법이다.
 ![(https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_emphasis.jpg)](https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_emphasis.jpg)
 
 ## 대비
