@@ -6,7 +6,7 @@
 __우리는 항상 생각해야 한다. "나는 무엇을 시각화하려고 하는가?"__
 + 어떤 느낌, 주제적인 메시지 또는 경험을 만들어야 내 요점을 명확하고 효과적으로 만들 수 있을까?
 + 일단 이런 본질적인 맥락을 잡게 되면, 우리는 우리의 의도대로 하기 위해 가능한 최선의 방법으로 모든 장면 요소를 배열하기 위해 샷 구성을 사용할 수 있다.
-+ 관객들을 끌어들이는 것은 영화 제작의 필수 조건이기 때문에, 구체적인 이유로 구체적인 촬영 방법을 알면 관객들에게 더 큰 영향을 미치게 되고 관객들이 더 오랫동안 몰입하게 된다. 
++ __관객들을 끌어들이는 것은 영화 제작의 필수 조건이기 때문에,__ 구체적인 이유로 구체적인 촬영 방법을 알면 관객들에게 더 큰 영향을 미치게 되고 관객들이 더 오랫동안 몰입하게 된다. 
 
 ### 1.Rule of Thirds
 + 첫째로, 3분의 1의 규칙은 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나이다. 
@@ -29,7 +29,7 @@ __캐릭터가 공간에서 가장 쉽게 위치를 차지하는 방법이다.__
 
 __완전히 대칭적인 장소는 관객들으로 하여금 순간적으로 압도감을 느끼게 한다.__
 
-+ 예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다. 
++ __예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다.__
 + 그리고 눈을 화면 중앙으로 이끌면 결국 당신의 이야기를 더 잘 전달하게 되고, 더 많은 감동을 얻을 수 있을 것이다.
 + 그렇기 때문에 의도가 있는 샷의 균형과 대칭은 매우 효과적일 수 있다.
 
@@ -42,7 +42,6 @@ __완전히 대칭적인 장소는 관객들으로 하여금 순간적으로 압
 + 모든 예술 요소 중에서 선이 가장 필수적이고 중요하며 영향력있다.
 + 선이 없으면 형체가 있을 수 없다. 모양이 없으면 형태가 있을 수 없다. 
 + 선은 예술적 표현의 일차적인 도구로서, 수직, 수평, 대각선 또는 곡선일 수 있다.
-+ 선은 짧거나 길거나 굵거나 얇을 수 있다. 선은 우리를 이미지에서 멀어지게 하거나 앞으로 이동시킬 수 있다. 
 
 __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 
@@ -58,13 +57,13 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 ## 형태
 
 + 형태는 심미적이고 심리적인 의미를 가지고 있다.
-+ 원은 순진함, 행복함, 친근함을 상징하기 때문에, 우리가 영웅, 아이들, "착한 남자들" 등 많은 애니메이션 등장인물들의 몸이 둥근 모양을 하고 있는 것을 볼 수 있는 이유다.
++ __원은 순진함, 행복함, 친근함을 상징하기 때문에,__ 우리가 영웅, 아이들, "착한 남자들" 등 많은 애니메이션 등장인물들의 몸이 둥근 모양을 하고 있는 것을 볼 수 있는 이유다.
 
 ![(https://nofilmschool.com/sites/default/files/styles/article_superwide/public/geometry.png?itok=fQktfqKx)](https://nofilmschool.com/sites/default/files/styles/article_superwide/public/geometry.png?itok=fQktfqKx)
 ![(https://nofilmschool.com/sites/default/files/styles/article_1500/public/ponyo.jpg?itok=a8IPC7mg)](https://nofilmschool.com/sites/default/files/styles/article_1500/public/ponyo.jpg?itok=a8IPC7mg)
 
 + 사각형은 종종 부자연스럽거나 인공적인 것을 나타낼 수 있다는 점에서 원과 거의 정반대라고 볼 수 있다. 
-+ 정사각형은 또한 "안정", "안정성" 또는 지루하거나 구식을 표현할 때 사용된다.
++ __정사각형은 또한 "안정", "안정성" 또는 지루하거나 구식을 표현할 때 사용된다.__
 ![(https://nofilmschool.com/sites/default/files/styles/article_1500/public/incredibles.jpg?itok=QTQPm3fK)](https://nofilmschool.com/sites/default/files/styles/article_1500/public/incredibles.jpg?itok=QTQPm3fK)
 
 + 어떤 이유에서인지 삼각형에는 공포와 불신, 의심을 이끌어낸다.
@@ -81,7 +80,7 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 
 + 모든 예술은 특정한 공간 안에 배치된다.  
 + 공간은 종종 그림이나 그림에서 현실적이거나 왜곡된 방식으로 환상적으로 재현된다. 
-+ 결과적으로 조각이든, 조립이든, 설치든, 심지어 그림이든 예술 작품은 특정한 목적을 가지고 특정한 물리적 공간을 차지한다. 
++ 결과적으로 조각이든, 조립이든, 설치든, 심지어 그림이든 __예술 작품은 특정한 목적을 가지고 특정한 물리적 공간을 차지한다.__
 + 종종 특정한 요소들로 예술 작품을 둘러싸거나 특정한 배경에 작품을 배치하려는 것은 예술작품에 의도적이고 불가결한 것이다. 
 ![(https://d2jv9003bew7ag.cloudfront.net/uploads/Anish-Kapoor-Monumenta-2011.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/Anish-Kapoor-Monumenta-2011.jpg)
 
@@ -89,7 +88,7 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 
 + 필름에 색이 있기 전에 흑백 영화 촬영이 영화 제작의 첫 수십 년을 지배했다. 
 + 테크니컬러와 같은 회사들은 20년대에 컬러 필름으로 실험을 시작했다. 1950년대에 이르러서야 색채 촬영이 흑백 촬영을 대체했다.
-+ 색은 모든 시각 예술 요소에서 가장 넓은 범위의 감정을 유도할 수 있으며, 종종 우리의 감정 상태에 중요한 영향을 미친다.
++ __색은 모든 시각 예술 요소에서 가장 넓은 범위의 감정을 유도할 수 있으며, 종종 우리의 감정 상태에 중요한 영향을 미친다.__
 + 영화 제작에서 색은 미장센의 큰 부분, 즉 우리가 프레임에서 보는 모든 것의 전체적인 효과다.
 + 색은 종종 우리가 의식하지 않아도 정서적으로, 심리적으로 그리고 심지어 신체적으로 우리에게 영향을 줄 수 있다.
 + 다른 색깔은 다른 메시지를 보낼 수 있고, 사진에 대한 중요한 시각적 무게와 영향을 가지고 있다.
@@ -105,8 +104,8 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 ## 질감
 
 + 질감은 표면의 질로 눈보다는 피부로 느낄 수 있는 감각이다. 
-+ 하지만, 우리는 표면과 재료가 얼마나 특별히 보이는지에 대한 지식을 쌓을 수 있었는데, 그 이유는 표면과 재료에 대한 우리의 뛰어난 __경험__ 덕분이다. 
-+ 이는 표면의 특성을 평면으로 번역하면 화가가 그 질감을 진솔하게 표현하는 솜씨를 발휘하기 때문에 시력을 통해 질감을 경험하게 된다는 것을 의미한다.
++ 하지만, 우리는 표면과 재료가 얼마나 특별히 보이는지에 대한 지식을 쌓을 수 있었는데, 그 이유는 __표면과 재료에 대한 우리의 뛰어난 경험__ 덕분이다. 
++ 화가는 평면으로 그 질감을 진솔하게 표현하는 솜씨를 발휘하기 때문에 우리는 __시력을 통해 질감을 경험하게 된다는 것을 의미한다.__
 
 ![(https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)
 + 질감은 이른 아침이나 초저녁의 햇빛이 비치는 쪽빛이나 태양이 수직이고 하늘에 높이 떠 있을 때의 머리 위의 빛에 의해 강조될 수 있다.
@@ -126,7 +125,7 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 
 ## 균형
 
-+ 균형은 이미지의 시각적 무게를 나타내기 위해 사용된다. 
++ __균형은 이미지의 시각적 무게를 나타내기 위해 사용된다.__
 + 세심하게 균형 잡힌 이미지는 사진에 안정감을 준다. 불균형한 이미지는 불안을 야기한다.
 + 대칭 – 이미지의 양쪽 면은 거울 이미지와 같은 동일한 주제를 반영한다.
 + 비대칭 – 대비되는 요소들이 이미지 균형을 맞춘다. 예를 들어, 이미지 한쪽의 질감이 높은 표면으로, 다른 한쪽의 매끄럽고 무광 표면으로 균형을 맞춘다.
@@ -150,13 +149,13 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 + 대조는 사진 속에 둘 이상의 대립적인 요소가 있을 때 생성된다. 어두울 때는 빛, 시원할 때는 따뜻하다.
 + 그러나 대비는 물리적인 요소도 포함한다. 
 + 질감은 사진 촬영에 대비의 원리를 활용하는 또 다른 방법이다. 
-+ 사진에 두 개 이상의 질감을 포함하면 촉각을 일으킬 뿐만 아니라 위치감을 만들어낸다.
++ 사진에 두 개 이상의 질감을 포함하면 촉각을 일으킬 뿐만 아니라 위치감까지 만들어낸다.
 ![(https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_contrast.jpg)](https://expertphotography.com/wp-content/uploads/2019/01/7_principles_of_art_ant_design_contrast.jpg)
 
 ## Depth
 
 + 필드 깊이(Depth of Field: DOF)는 이미지에서 물체가 허용 가능할 정도로 선명하게 나타나는 영역의 크기를 설명하는 데 사용되는 용어다.
-+ 필드의 깊이는 스펙트럼이며, 다양한 샷에 다른 효과를 가져오는 다양한 변화를 준다.
++ 필드의 깊이는 스펙트럼이며, __다양한 샷에 다른 효과를 가져오는 다양한 변화를 준다.__
 ![(https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-04-Depth-of-Field-Chart.png)](https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-04-Depth-of-Field-Chart.png)
 ![(https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Diagram-Select-Focus-StudioBinder.png)](https://s.studiobinder.com/wp-content/uploads/2018/11/Depth-of-Field-Diagram-Select-Focus-StudioBinder.png)
 ![(https://s.studiobinder.com/wp-content/uploads/2018/11/Shallow-Depth-Of-Field-StudioBinder.png)](https://s.studiobinder.com/wp-content/uploads/2018/11/Shallow-Depth-Of-Field-StudioBinder.png)
@@ -165,7 +164,7 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 
 + 필드의 깊이는 영화 어휘의 필수적인 부분이며 영화 제작자들이 관객의 관심을 이끌 수 있는 도구다. 
 + 초점을 맞추고 있는 것이 주의를 기울여야 할 것이라고 말하고 있기 때문에, 포커스 대상을 결정함으로써 시청자의 시선 또한 조절할 수 있다.
-+ 단순히 등장인물의 감정 상태를 전달하기보다는 변화하는 Depth효과를 이용하여 대상자의 감정 상태의 변화를 표현할 수도 있다.
++ __단순히 등장인물의 감정 상태를 전달하기보다는 변화하는 Depth효과를 이용하여 대상자의 감정 상태의 변화를 표현할 수도 있다.__
 + 장면의 시작 부분에서, 핵심 정보가 전경에 있다면 우리는 청중들에게 그 부분을 부각 시킬 수 있다. 
 ![(https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-2-Memories-of-Murder-caption.jpg)](https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-2-Memories-of-Murder-caption.jpg)
 ![(https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-Memories-of-Murder-caption-2.jpg)](https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-06-Memories-of-Murder-caption-2.jpg)
