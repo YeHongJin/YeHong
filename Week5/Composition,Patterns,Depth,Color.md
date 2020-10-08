@@ -27,7 +27,7 @@ __캐릭터가 공간에서 가장 쉽게 위치를 차지하는 방법이다.__
 ![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Balance-and-Symmetry-Wes-min.jpg)
 ![(https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg)](https://s.studiobinder.com/wp-content/uploads/2019/04/Rules-of-Shot-Composition-Symmetry-Kubrick-min.jpg)
 
-__혹은 완전히 대칭적인 장소를 만들어내 관객들은 순간적으로 압도감을 느끼게 된다.__
+__완전히 대칭적인 장소는 관객들으로 하여금 순간적으로 압도감을 느끼게 한다.__
 
 + 예술가들은 시청자의 시선을 특정 장소로 유도하기 위해 이 기술을 사용한다. 
 + 그리고 눈을 화면 중앙으로 이끌면 결국 당신의 이야기를 더 잘 전달하게 되고, 더 많은 감동을 얻을 수 있을 것이다.
