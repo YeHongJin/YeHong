@@ -112,7 +112,6 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 
 + 균형은 이미지의 시각적 무게를 나타내기 위해 사용된다. 
 + 세심하게 균형 잡힌 이미지는 사진에 안정감을 준다. 불균형한 이미지는 불안을 야기한다.
--------
 + 대칭 – 이미지의 양쪽 면은 거울 이미지와 같은 동일한 주제를 반영한다.
 + 비대칭 – 대비되는 요소들이 이미지 균형을 맞춘다. 예를 들어, 이미지 한쪽의 질감이 높은 표면으로, 다른 한쪽의 매끄럽고 무광 표면으로 균형을 맞춘다.
 
@@ -156,7 +155,7 @@ __패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있�
 
 군인들이 급하게 뛰는 장면에서, 감독은 전체적으로 포커스를 잡으며 "하나의" 병사를 제외시키지 않았다. 
 
-![(https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-07-Full-Metal-Jacket-Stanley-Kubrick-caption-2.jpg)]
+![(https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-07-Full-Metal-Jacket-Stanley-Kubrick-caption-2.jpg)](https://12bk9vnrl142v34rlu4in18t-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Depth-of-Field-07-Full-Metal-Jacket-Stanley-Kubrick-caption-2.jpg)
 
 ---------------------------------
 
