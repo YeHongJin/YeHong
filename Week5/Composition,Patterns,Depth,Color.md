@@ -54,8 +54,6 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 + __이미지에서 수평선의 편안하고 안정된 느낌을 더욱 강조하고 싶다면, 좋은 방법은 수직이 아닌 수평 프레임을 사용하는 것이다.__
 + 대각선은 시청자의 관심을 사진의 주요 주제로 유도하는 데 효과적이다. 또한 행동감을 전달하고 사진을 역동적이고 흥미롭게 만들 수 있다. 
 + 대각선은 길, 나무의 선, 울타리, 강 또는 이미지의 다른 구성요소의 형태일 수 있다.
-![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/2.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/2.jpg)
-![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/1.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/1.jpg)
 ![(https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)](https://i1.wp.com/i.dailymail.co.uk/i/pix/2012/12/27/article-2253623-16A9EE85000005DC-282_964x644.jpg?zoom=2)
 
 ## 형태
@@ -92,12 +90,11 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 
 + 질감은 표면의 질로 눈보다는 피부로 느낄 수 있는 감각이다. 
 + 하지만, 우리는 표면과 재료가 얼마나 특별히 보이는지에 대한 지식을 쌓을 수 있었는데, 그 이유는 표면과 재료에 대한 우리의 뛰어난 __경험__ 덕분이다. 
-이는 표면의 특성을 평면으로 번역하면 화가가 그 질감을 진솔하게 표현하는 솜씨를 발휘하기 때문에 시력을 통해 질감을 경험하게 된다는 것을 의미한다.
++ 이는 표면의 특성을 평면으로 번역하면 화가가 그 질감을 진솔하게 표현하는 솜씨를 발휘하기 때문에 시력을 통해 질감을 경험하게 된다는 것을 의미한다.
 ![(https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)](https://d2jv9003bew7ag.cloudfront.net/uploads/Wayne-Thiebaud-Around-the-Cake.jpg)
 + 질감은 이른 아침이나 초저녁의 햇빛이 비치는 쪽빛이나 태양이 수직이고 하늘에 높이 떠 있을 때의 머리 위의 빛에 의해 강조될 수 있다.
 + 나아가 배경의 질감은 흥미진진하고 감성이 충만한 구도를 만들어 낼 수 있다는 점에 주목할 필요가 있다. 
 + 또한 질감을 올바르게 사용함으로써, 그림은 더욱 생동감 있는 3차원을 구현 할 수 있다.
-![(https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/5.jpg)](https://cdn.tutsplus.com/photo/uploads/legacy/235_elementsofdesign/5.jpg)
 
 ## 패턴
 
@@ -108,7 +105,7 @@ __라인이 이미지에 미치는 정서적 영향을 간과할 수 없다.__
 ![(https://images.squarespace-cdn.com/content/v1/52bf4158e4b0092ee5f6333b/1440452365526-IIQ9FPCF13Y4F88Y71F0/ke17ZwdGBToddI8pDm48kO7Rg1Gpu728H4UqxUIfecJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICj5SdZHY9KUswDgTH3eH8sP5PrkY15Dr7CE2CPSRiTEKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=1500w)](https://images.squarespace-cdn.com/content/v1/52bf4158e4b0092ee5f6333b/1440452365526-IIQ9FPCF13Y4F88Y71F0/ke17ZwdGBToddI8pDm48kO7Rg1Gpu728H4UqxUIfecJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICj5SdZHY9KUswDgTH3eH8sP5PrkY15Dr7CE2CPSRiTEKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=1500w)
 ![(https://images.squarespace-cdn.com/content/v1/52bf4158e4b0092ee5f6333b/1440452744270-ZO7WJU7X78NIL0GC519R/ke17ZwdGBToddI8pDm48kHUzxcQwd2DgHE3KO6VtZClZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjemT7TLA_6Za-g0iyqDFHfh0kLGIF9yLJqKkHdIutdkKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=1500w)](https://images.squarespace-cdn.com/content/v1/52bf4158e4b0092ee5f6333b/1440452744270-ZO7WJU7X78NIL0GC519R/ke17ZwdGBToddI8pDm48kHUzxcQwd2DgHE3KO6VtZClZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjemT7TLA_6Za-g0iyqDFHfh0kLGIF9yLJqKkHdIutdkKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg?format=1500w)
 
-__패턴을 사용함으로서 프레임안의 분위기와 감정 느낌을 표현할 수 있다.__
+__패턴을 사용함으로서 프레임안의 분위기와  표현할 수 있다.__
 
 ## 균형
 
